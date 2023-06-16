@@ -1,8 +1,0 @@
-G:\C# projects\labproject9\bin\Debug\labproject9.exe.config
-G:\C# projects\labproject9\bin\Debug\labproject9.exe
-G:\C# projects\labproject9\bin\Debug\labproject9.pdb
-G:\C# projects\labproject9\obj\Debug\labproject9.csproj.AssemblyReference.cache
-G:\C# projects\labproject9\obj\Debug\labproject9.csproj.SuggestedBindingRedirects.cache
-G:\C# projects\labproject9\obj\Debug\labproject9.csproj.CoreCompileInputs.cache
-G:\C# projects\labproject9\obj\Debug\labproject9.exe
-G:\C# projects\labproject9\obj\Debug\labproject9.pdb

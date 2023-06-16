@@ -1,8 +1,0 @@
-G:\C# projects\labproject7\bin\Debug\labproject7.exe.config
-G:\C# projects\labproject7\bin\Debug\labproject7.exe
-G:\C# projects\labproject7\bin\Debug\labproject7.pdb
-G:\C# projects\labproject7\obj\Debug\labproject7.csproj.AssemblyReference.cache
-G:\C# projects\labproject7\obj\Debug\labproject7.csproj.SuggestedBindingRedirects.cache
-G:\C# projects\labproject7\obj\Debug\labproject7.csproj.CoreCompileInputs.cache
-G:\C# projects\labproject7\obj\Debug\labproject7.exe
-G:\C# projects\labproject7\obj\Debug\labproject7.pdb
