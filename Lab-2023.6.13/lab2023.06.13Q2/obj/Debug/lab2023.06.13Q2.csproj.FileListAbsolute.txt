@@ -1,8 +1,0 @@
-G:\C# Labs\lab2023.06.13Q2\bin\Debug\lab2023.06.13Q2.exe.config
-G:\C# Labs\lab2023.06.13Q2\bin\Debug\lab2023.06.13Q2.exe
-G:\C# Labs\lab2023.06.13Q2\bin\Debug\lab2023.06.13Q2.pdb
-G:\C# Labs\lab2023.06.13Q2\obj\Debug\lab2023.06.13Q2.csproj.AssemblyReference.cache
-G:\C# Labs\lab2023.06.13Q2\obj\Debug\lab2023.06.13Q2.csproj.SuggestedBindingRedirects.cache
-G:\C# Labs\lab2023.06.13Q2\obj\Debug\lab2023.06.13Q2.csproj.CoreCompileInputs.cache
-G:\C# Labs\lab2023.06.13Q2\obj\Debug\lab2023.06.13Q2.exe
-G:\C# Labs\lab2023.06.13Q2\obj\Debug\lab2023.06.13Q2.pdb
